@@ -17,4 +17,4 @@ Check out my [website](https://www.theshahml.com) to check out some of my work!
 
 ---
 
-![TheShahML's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShahML&show_icons=true&theme=radical)
+[![TheShahML's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShahML&show_icons=true&theme=radical)](https://github.com/TheShahML/github-readme-stats)
