@@ -1,21 +1,25 @@
 <div align="center">
   
-## Meet, Shahmir (TheShahML) Javed
+# Meet, Shahmir (TheShahML) Javed
 
 </div>
 
 ---
-### **⚙️ Aspiring Data and Machine Learning Engineer**<br/>
+# 💫 About Me:
+
+**⚙️ Aspiring Data and Machine Learning Engineer**<br/>
 
 Building data pipelines, machine learning systems, and combining them in end-to-end infrasturcture.<br/>
 I realized I enjoyed building the data and ML systems behind the analytics, not just analyzing the results.<br/>
 
 *   🌐  Check out my [website](https://www.theshahml.com)
 *   ✉️  Contact me at [shahmir.javed@utexas.edu](mailto:shahmir.javed@utexas.edu)
-*   📘  Currently learning and reading [Financial Data Science](https://www.cambridge.org/highereducation/books/financial-data-science/BFB9B1EF9B7A09235535408A909765CD#overview)
+*   🧠  Currently learning and reading [Financial Data Science](https://www.cambridge.org/highereducation/books/financial-data-science/BFB9B1EF9B7A09235535408A909765CD#overview)
+*   🔬  Currently working on Resume / Job Matcher
+*   ⚡  Fun Fact: I love coffee and matcha
 *   📍  Based in Texas
 
-### 🎓 Education
+# 🎓 Education
 
 *  **Masters in Business Analytics** at the University of Texas at Austin.<br/>
 *  **Bachelors in Finance** at the University of Texas at Dallas.<br/>
@@ -27,8 +31,3 @@ I realized I enjoyed building the data and ML systems behind the analytics, not 
 ![](https://github-readme-stats.vercel.app/api?username=theshahml&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=theshahml&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theshahml&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=theshahml&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
