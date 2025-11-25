@@ -14,8 +14,8 @@ I realized I enjoyed building the data and ML systems behind the analytics, not 
 
 ### 🎓 Education
 
-**Masters in Business Analytics** at the University of Texas at Austin.<br/>
-**Bachelors in Finance** at the University of Texas at Dallas.<br/>
+*   **Masters in Business Analytics** at the University of Texas at Austin.<br/>
+*   **Bachelors in Finance** at the University of Texas at Dallas.<br/>
 
 ---
 ### 🛠️ Tech Stack
