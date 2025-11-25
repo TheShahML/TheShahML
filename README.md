@@ -1,4 +1,6 @@
+<div align="center">
 ## Meet, Shahmir (TheShahML) Javed
+</div>
 
 ---
 ### 💡About Me
