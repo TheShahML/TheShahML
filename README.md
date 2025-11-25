@@ -5,9 +5,7 @@
 </div>
 
 ---
-### 💡About Me
-
-**⚙️ Aspiring Data and Machine Learning Engineer**<br/>
+### **⚙️ Aspiring Data and Machine Learning Engineer**<br/>
 
 Building data pipelines, machine learning systems, and combining them in end-to-end infrasturcture.<br/>
 I realized I enjoyed building the data and ML systems behind the analytics, not just analyzing the results.<br/>
