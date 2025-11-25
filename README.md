@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello, my name is Shahmir Javed (TheShahML)
 
-<!--
-**TheShahML/TheShahML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚙️ Aspiring Data and Machine Learning Engineer
+Building data pipelines, machine learning systems, and combining them in end-to-end infrasturcture.<br/>
+I realized I enjoyed building the data and ML systems behind the analytics, not just analyzing the results.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [website](https://www.theshahml.com) to check out some of my work!
+
+---
+
+### 🎓 Education
+
+**Masters in Business Analytics** at the University of Texas at Austin.<\br>
+**Bachelors in Finance** at the University of Texas at Dallas.<br/>
