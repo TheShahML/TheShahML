@@ -14,3 +14,7 @@ Check out my [website](https://www.theshahml.com) to check out some of my work!
 
 **Masters in Business Analytics** at the University of Texas at Austin.<br/>
 **Bachelors in Finance** at the University of Texas at Dallas.<br/>
+
+---
+
+![TheShahML's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShahML&show_icons=true&theme=radical)
