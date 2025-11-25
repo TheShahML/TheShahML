@@ -1,4 +1,4 @@
-### 🧑‍💻 Shahmir (TheShahML) Javed
+### Meet, Shahmir (TheShahML) Javed
 
 ---
 
