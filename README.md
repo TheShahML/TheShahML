@@ -1,4 +1,4 @@
-### Hello, my name is Shahmir Javed (TheShahML)
+## Shahmir (TheShahML) Javed
 
 ---
 
