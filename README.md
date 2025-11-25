@@ -12,5 +12,5 @@ Check out my [website](https://www.theshahml.com) to check out some of my work!
 
 ### 🎓 Education
 
-**Masters in Business Analytics** at the University of Texas at Austin.<\br>
+**Masters in Business Analytics** at the University of Texas at Austin.<br/>
 **Bachelors in Finance** at the University of Texas at Dallas.<br/>
