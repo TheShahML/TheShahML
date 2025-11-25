@@ -8,8 +8,9 @@ Building data pipelines, machine learning systems, and combining them in end-to-
 I realized I enjoyed building the data and ML systems behind the analytics, not just analyzing the results.<br/>
 
 *   🌐 Check out my [website](https://www.theshahml.com) to check out some of my work!
-
----
+*   ✉️  You can contact me at [shahmir.javed@utexas.edu](mailto:shahmir.javed@utexas.edu)
+*   📙  I'm currently reading [Financial Data Science](https://www.cambridge.org/highereducation/books/financial-data-science/BFB9B1EF9B7A09235535408A909765CD#overview)
+*   🌍  Based in Texas
 
 ### 🎓 Education
 
@@ -18,9 +19,6 @@ I realized I enjoyed building the data and ML systems behind the analytics, not 
 
 ---
 
-*   🌍  I'm based in Texas
-*   ✉️  You can contact me at [shahmir.javed@utexas.edu](mailto:shahmir.javed@utexas.edu)
-*   📙  I'm currently reading [Financial Data Science](https://www.cambridge.org/highereducation/books/financial-data-science/BFB9B1EF9B7A09235535408A909765CD#overview)
 
 --- 
 
