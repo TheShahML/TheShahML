@@ -7,15 +7,15 @@
 ---
 ## 💫 About Me:
 
-**⚙️ Aspiring Data and Machine Learning Engineer**<br/>
+**⚙️ Aspiring Software and Machine Learning Engineer**<br/>
 
 Building data pipelines, machine learning systems, and combining them in end-to-end infrasturcture.<br/>
-I realized I enjoyed building the data and ML systems behind the analytics, not just analyzing the results.<br/>
+I enjoy building the data and ML systems behind the analytics, not just analyzing the results.<br/>
 
 *   🌐  Check out my [website](https://www.theshahml.com)
 *   ✉️  Contact me at [shahmir.javed@utexas.edu](mailto:shahmir.javed@utexas.edu)
 *   🧠  Currently learning and reading [Financial Data Science](https://www.cambridge.org/highereducation/books/financial-data-science/BFB9B1EF9B7A09235535408A909765CD#overview)
-*   🔬  Currently working on Resume / Job Matcher
+*   🔬  Currently working on [SwayApply.com]swayapply.com)
 *   ⚡  Fun Fact: I love coffee and matcha
 *   📍  Based in Texas
 
