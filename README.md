@@ -15,7 +15,7 @@ I enjoy building the data and ML systems behind the analytics, not just analyzin
 *   🌐  Check out my [website](https://www.theshahml.com)
 *   ✉️  Contact me at [shahmir.javed@utexas.edu](mailto:shahmir.javed@utexas.edu)
 *   🧠  Currently learning and reading [Financial Data Science](https://www.cambridge.org/highereducation/books/financial-data-science/BFB9B1EF9B7A09235535408A909765CD#overview)
-*   🔬  Currently working on [SwayApply.com]swayapply.com)
+*   🔬  Currently working on [SwayApply.com](swayapply.com)
 *   ⚡  Fun Fact: I love coffee and matcha
 *   📍  Based in Texas
 
